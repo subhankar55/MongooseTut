@@ -1,0 +1,23 @@
+{
+  "name": "mongoosetut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhankar55/MongooseTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhankar55/MongooseTut/issues"
+  },
+  "homepage": "https://github.com/subhankar55/MongooseTut#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
